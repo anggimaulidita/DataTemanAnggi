@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataTemanAnggi</string>
+    <string name="selected_item">SelectedItem</string>
+    <string-array name="JenisKelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>

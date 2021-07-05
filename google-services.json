@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7621700610",
+    "firebase_url": "https://datatemananggi-default-rtdb.firebaseio.com",
+    "project_id": "datatemananggi",
+    "storage_bucket": "datatemananggi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7621700610:android:3bc920b5f174ec631c8b1b",
+        "android_client_info": {
+          "package_name": "com.anggi.datatemananggi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7621700610-68bedoihaeh0igjh1kpd8fli94687808.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggi.datatemananggi",
+            "certificate_hash": "1c2b820dc6b14e19acaa77f5c15d7ce076c8f529"
+          }
+        },
+        {
+          "client_id": "7621700610-st4ifccfvkirq741onh29otkhcnhqejd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAqTn2NTfF1Fk5bNNzsUSACRXjcUBoxcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7621700610-st4ifccfvkirq741onh29otkhcnhqejd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
